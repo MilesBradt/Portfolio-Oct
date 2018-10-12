@@ -1,7 +1,13 @@
+.text {
+  background-color: red;
+  float: left;
+}
+
 .sidebar {
   float: left;
   width: 150px;
   background-color: #BB6F6B;
+
 }
 
 .header {
