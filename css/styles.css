@@ -52,14 +52,14 @@ body {
     margin-bottom: 0;
   }
 
-.title {
-  font-size: 50px;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-bottom: 15px;
+.nav-title {
+  font-size: 32px;
+  margin-top: 3px;
+  /* margin-bottom: 0;
+  padding-bottom: 15px; */
   text-align: center;
   color: #F0F2EF;
-  background-color: #201F21;
+  /* background-color: #201F21; */
 }
 
 .text {
