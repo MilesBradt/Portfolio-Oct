@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _Week 1 Independent Project _
+#### _Week 1 Independent Project_
 
 #### By _**Miles Bradt**_
 
