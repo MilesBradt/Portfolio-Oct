@@ -11,11 +11,11 @@ _Simple portfolio website with basic html and css_
 ## Setup/Installation Requirements
 
 * _Clone repository_
-* _View from link: _
+* _View from link: https://milesbradt.github.io/Portfolio-Oct/index.html_
 
 ## Known Bugs
 
-_None to my knowledge_
+_GitHub logo image seems to be broken on gh-pages host but works locally_
 
 ## Support and contact details
 
