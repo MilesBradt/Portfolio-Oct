@@ -15,8 +15,17 @@ h1 {
   border-radius: 15%;
 }
 
-.sidebar-links {
+.nav-tabs {
+  background-color: #575359;
+}
+
+.nav-links {
   color: #F0F2EF;
+  background-color: #575359;
+}
+
+.active {
+  color: #FFF;
 }
 
 .links {
@@ -39,11 +48,11 @@ h1 {
   padding-bottom: 10px;
 }
 
-.sidebar {
+/* .sidebar {
   float: left;
   width: 200px;
   background-color: #282629;
-}
+} */
 
 .header {
   text-align: center;
