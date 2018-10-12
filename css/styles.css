@@ -1,17 +1,42 @@
+body {
+  background-color: #A3A5A2;
+}
+
+.logos {
+
+  width: 240px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.logos:hover {
+  transform: scale(1.02);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .text {
-  background-color: red;
-  float: left;
+  background-color: #A3A5A2;
+  color: #F0F2EF;
+  /* float: left; */
+  text-align: center;
+}
+
+.sidebar-links {
+  color: #F0F2EF;
 }
 
 .sidebar {
   float: left;
   width: 150px;
-  background-color: #BB6F6B;
+  background-color: #282629;
 
 }
 
 .header {
   text-align: center;
+  background-color: #282629;
+  color: #F0F2EF;
 }
 
 #avatar {
