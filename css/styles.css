@@ -35,10 +35,21 @@ body {
 .btn {
   float: right;
   color: #201F21;
+  font-size: 12px;
 }
 
 h1 {
   margin-top: 0;
+}
+
+#dark-theme {
+  background-color: #201F21;
+  color: #E1E3E0;
+}
+
+#light-theme {
+  background-color: #E1E3E0;
+  color: #201F21;
 }
 
 #epicodus {
