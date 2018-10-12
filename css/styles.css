@@ -28,6 +28,10 @@ body {
   font-size: 16px;
 }
 
+.nav-tabs-light {
+  background-color: #201F21;
+}
+
 .btn {
   float: right;
   color: #201F21;
@@ -46,7 +50,7 @@ h1 {
   border-radius: 25%;
 }
 
-.nav-tabs {
+.nav-tabs-regular {
   background-color: #575359;
 }
 

@@ -15,7 +15,7 @@ _Simple portfolio website with basic html and css_
 
 ## Known Bugs
 
-_None that I know of_
+_Light theme resets when changing tabs_
 
 ## Support and contact details
 

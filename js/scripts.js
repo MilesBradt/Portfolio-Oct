@@ -5,6 +5,8 @@ $(document).ready(function() {
     $(".jumbotron").addClass("light-theme-header");
     $(".container").removeClass("text");
     $(".container").addClass("light-text");
+    $(".nav").removeClass("nav-tabs-regular");
+    $(".nav").addClass("nav-tabs-light");
   });
 
   $("button#dark-theme").click(function() {
@@ -12,6 +14,7 @@ $(document).ready(function() {
     $(".jumbotron").addClass("header");
     $(".jumbotron").removeClass("light-theme-header");
     $(".container").addClass("text");
-    $(".container").removeClass("light-text");
+    $(".container").removeClass("light-text");$(".nav").addClass("nav-tabs-regular");
+    $(".nav").removeClass("nav-tabs-light");
   });
 });
