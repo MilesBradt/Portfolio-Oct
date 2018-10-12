@@ -1,15 +1,14 @@
 body {
-  background-color: #817B85;
+  background-color: #201F21;
 }
 
-.title {
-  font-size: 64px;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-bottom: 15px;
-  text-align: center;
-  color: #F0F2EF;
-  background-color: #201F21;
+#epicodus {
+  color: #00b3b4;
+}
+
+#avatar {
+  width: 326px;
+  border-radius: 15%;
 }
 
 .logos {
@@ -24,13 +23,10 @@ body {
   padding-bottom: 10px;
 }
 
-.text {
-  background-color: #817B85;
-  padding-top: 10px;
-  padding-bottom: 50%;
-  color: #F0F2EF;
-  font-size: 16px;
-
+.sidebar {
+  float: left;
+  width: 150px;
+  background-color: #282629;
 }
 
 .sidebar-links {
@@ -38,13 +34,11 @@ body {
 }
 
 .links {
-  color: #535453;
+  color: #B1B2B0;
 }
 
-.sidebar {
-  float: left;
-  width: 150px;
-  background-color: #282629;
+.bold {
+  font-weight: bold;
 }
 
 .header {
@@ -52,17 +46,27 @@ body {
   background-image:
   linear-gradient(
     to top,
-   #201F21, #575359
+    #201F21, #575359
     );
-  color: #F0F2EF;
+    color: #F0F2EF;
+    margin-bottom: 0;
+  }
+
+.title {
+  font-size: 64px;
+  margin-top: 0;
   margin-bottom: 0;
+  padding-bottom: 15px;
+  text-align: center;
+  color: #F0F2EF;
+  background-color: #201F21;
 }
 
-.bold {
-  font-weight: bold;
-}
-
-#avatar {
-  width: 326px;
-  border-radius: 15%;
+.text {
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 50%;
+  color: #F0F2EF;
+  background-color: #201F21;
+  font-size: 16px;
 }
