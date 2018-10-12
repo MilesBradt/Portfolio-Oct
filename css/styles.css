@@ -25,8 +25,8 @@ body {
 .text {
   background-color: #A3A5A2;
   color: #F0F2EF;
-  /* float: left; */
-  text-align: center;
+  font-size: 16px;
+  
 }
 
 .sidebar-links {
@@ -37,7 +37,6 @@ body {
   float: left;
   width: 150px;
   background-color: #282629;
-
 }
 
 .header {
