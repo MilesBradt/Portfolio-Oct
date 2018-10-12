@@ -1,13 +1,15 @@
 body {
-  background-color: #A3A5A2;
+  background-color: #817B85;
 }
 
 .title {
   font-size: 64px;
   margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 15px;
   text-align: center;
   color: #F0F2EF;
-  background-color: #39363B;
+  background-color: #201F21;
 }
 
 .logos {
@@ -23,14 +25,20 @@ body {
 }
 
 .text {
-  background-color: #A3A5A2;
+  background-color: #817B85;
+  padding-top: 10px;
+  padding-bottom: 50%;
   color: #F0F2EF;
   font-size: 16px;
-  
+
 }
 
 .sidebar-links {
   color: #F0F2EF;
+}
+
+.links {
+  color: #535453;
 }
 
 .sidebar {
@@ -41,11 +49,20 @@ body {
 
 .header {
   text-align: center;
-  background-color: #282629;
+  background-image:
+  linear-gradient(
+    to top,
+   #201F21, #575359
+    );
   color: #F0F2EF;
   margin-bottom: 0;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 #avatar {
   width: 326px;
+  border-radius: 15%;
 }
