@@ -15,7 +15,7 @@ _Simple portfolio website with basic html and css_
 
 ## Known Bugs
 
-_GitHub logo image seems to be broken on gh-pages host but works locally_
+_None that I know of_
 
 ## Support and contact details
 
