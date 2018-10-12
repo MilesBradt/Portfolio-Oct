@@ -32,6 +32,8 @@ _HTML and CSS_
 
 * _Linkedin Logo from Linkedin.com_
 
+* _Ubuntu font from google fonts: https://fonts.googleapis.com/css?family=Ubuntu_
+
 ### License
 
 *GPL*
