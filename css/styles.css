@@ -2,6 +2,10 @@ body {
   background-color: #201F21;
 }
 
+h1 {
+  margin-top: 0;
+}
+
 #epicodus {
   color: #00b3b4;
 }
@@ -50,16 +54,14 @@ body {
     );
     color: #F0F2EF;
     margin-bottom: 0;
+    padding-top: 15px;
   }
 
 .nav-title {
   font-size: 32px;
   margin-top: 3px;
-  /* margin-bottom: 0;
-  padding-bottom: 15px; */
   text-align: center;
   color: #F0F2EF;
-  /* background-color: #201F21; */
 }
 
 .text {
